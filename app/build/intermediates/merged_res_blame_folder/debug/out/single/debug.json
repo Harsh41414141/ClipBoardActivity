@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/drawable-xxhdpi_copy.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/drawable-xxhdpi/copy.png"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/drawable-xhdpi_paste.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/drawable-xhdpi/paste.png"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/drawable-xxhdpi_paste.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/drawable-xxhdpi/paste.png"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/xml_backup_rules.xml.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/drawable-hdpi_copy.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/drawable-hdpi/copy.png"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/drawable-hdpi_paste.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/drawable-hdpi/paste.png"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/drawable-xhdpi_copy.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/drawable-xhdpi/copy.png"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.clipboard.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.example.clipboard.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-pngs-20:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/drawable-mdpi_paste.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/drawable-mdpi/paste.png"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/drawable-anydpi_copy.xml.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/drawable-anydpi/copy.xml"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/drawable-mdpi_copy.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/drawable-mdpi/copy.png"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/drawable-anydpi_paste.xml.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/drawable-anydpi/paste.xml"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-merged_res-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/harsh/.gradle/daemon/7.3.3/com.example.clipboard.app-main-27:/mipmap-hdpi/ic_launcher.png"
+    }
+]
